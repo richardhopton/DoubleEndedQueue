@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleEndedQueue", "DoubleEndedQueue\DoubleEndedQueue.csproj", "{AA8C0A5C-EE25-4DA7-A607-D8810722FABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubleEndedQueueTest", "DoubleEndedQueueTest\DoubleEndedQueueTest.csproj", "{4826818F-5DB4-48D8-9B52-74A91F96E823}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = DoubleEndedQueue.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA8C0A5C-EE25-4DA7-A607-D8810722FABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA8C0A5C-EE25-4DA7-A607-D8810722FABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA8C0A5C-EE25-4DA7-A607-D8810722FABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA8C0A5C-EE25-4DA7-A607-D8810722FABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4826818F-5DB4-48D8-9B52-74A91F96E823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4826818F-5DB4-48D8-9B52-74A91F96E823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4826818F-5DB4-48D8-9B52-74A91F96E823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4826818F-5DB4-48D8-9B52-74A91F96E823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
